@@ -1,3 +1,5 @@
+git clone https://github.com/peterthehan/create-discord-bot.git && cd create-discord-bot/ && npm install
+
 {
   "TOKEN": "NjU0MjUxNzE2MzA4NjMxNTcz.XfC6wA.v7H7xnUpvfFTt1CqUIZoBFBj0sQ"
 }
